@@ -9,7 +9,7 @@ For detailed instructions on how to get started, check out this [guide](https://
 This is a small 2d game written in Javascript. The game challenges little Gary to cross a stone path crawling with Humongous bugs. Can you help little gary to fetch water on the other side.
 
 
-![frogger game screenshot](capture.PNG)
+![frogger game screenshot](Capture.PNG)
 
 ## Requirements and how to:
 
